@@ -1,0 +1,6 @@
+{
+  "name": "Campus Management by Deepak",
+  "description": "Sleek campus management system with institutional dashboards, student tracking, financial management, and real-time alerts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
