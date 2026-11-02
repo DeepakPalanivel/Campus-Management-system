@@ -4,7 +4,7 @@ A web-based Campus Management System designed to simplify and streamline academi
 
 ## 🌐 Live Demo
 
-**[Visit Campus Management System](https://campusmanagement-devby-deepak.ai.studio)**
+**[Visit Campus Management System](https://campus-management-system-liard.vercel.app/)**
 
 ## 📌 Project Overview
 
